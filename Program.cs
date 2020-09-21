@@ -9,7 +9,7 @@ namespace FaceDetection
     class Program
     {
         const string subscriptionKey = "**********";
-        const string uriBase = "https://*****************:.cognitiveservices.azure.com/face/v1.0/detect";
+        const string uriBase = "https://*****************.cognitiveservices.azure.com/face/v1.0/detect";
 
         static void Main(string[] args)
         {
